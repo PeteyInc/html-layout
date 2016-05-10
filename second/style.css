@@ -1,0 +1,35 @@
+.left-section {
+  background-color: #3C7BDA;
+  width: 33.33%;
+  width: calc(100% / 3);
+  height: 100vh;
+  float: left;
+}
+
+.middle-section {
+  background-color: #46DFB5;
+  width: 33.33%;
+  width: calc(100% / 3);
+  height: 100vh;
+  float: left;
+}
+
+.right-section {
+  background-color: #ABE774;
+  width: 33.33%;
+  width: calc(100% / 3);
+  height: 100vh;
+  float: right;
+}
+
+.image-container {
+  background-color: #C30016;
+}
+
+.image-container p {
+  height: 20vh;
+  margin: auto;
+  padding: 10px;
+  color: white;
+  align-self: center;
+}
