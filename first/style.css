@@ -1,6 +1,10 @@
 .main-header {
   width: 100%;
-  background-color: grey;
   color: black;
   height: 25vh;
+  background-color: blue;
+}
+
+body {
+  background-color: #cdcdcd;
 }
