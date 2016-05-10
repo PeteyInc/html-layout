@@ -1,0 +1,41 @@
+.main-header {
+  height: 75px;
+  padding: 10px;
+  background-color: #CFCFCF;
+}
+
+.logo-container {
+  height: 55px;
+  width: 55px;
+  background-color: #3C7BDA
+}
+
+.main-content {
+  width: 100%;
+  min-height: 15vh;
+  background-color: #fff;
+}
+
+.main-content p {
+  font-size: 24px;
+  margin: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#blue {
+  background-color: #3C7BDA;
+}
+
+#teal {
+  background-color: #46DFB5;
+}
+
+#green {
+  background-color: #ABE774;
+}
+
+#yellow {
+  background-color: #F6E418;
+}
